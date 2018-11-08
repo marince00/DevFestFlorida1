@@ -1,0 +1,15 @@
+{
+  "basepath": "/",
+  "url": "https://hoverboard-master.firebaseapp.com/",
+  "analytics": "UA-43643469-9",
+  "prefix": "/",
+  "firebase": {
+    "apiKey": "AIzaSyDjBa0e_5vqnv9FALASiS2coD8gQ9ioXu0",
+    "authDomain": "devfestflorida-5979d.firebaseapp.com",
+    "databaseURL": "https://devfestflorida-5979d.firebaseio.com",
+    "projectId": "devfestflorida-5979d",
+    "storageBucket": "devfestflorida-5979d.appspot.com",
+    "messagingSenderId": "202092269446"
+  },
+  "googleMapApiKey": "AIzaSyDXc63GSDUkODqXHnd2wFHFY6EyKVIN22E"
+}
