@@ -1,12 +1,12 @@
 {
   "organizer": {
-    "name": "DevFest Florida",
-    "twitter": "devfestfl",
-    "blog": "https://devfestflorida.org/blog/",
-    "url": "https://devfestflorida.org/"
+    "name": "GDG Lviv",
+    "twitter": "gdglviv",
+    "blog": "https://medium.com/gdg-lviv",
+    "url": "http://lviv.gdg.org.ua/"
   },
-  "startDate": "2019-01-19T09:00:00+03:00",
-  "endDate": "2019-01-19T19:00:00+03:00",
+  "startDate": "2017-10-013T09:00:00+03:00",
+  "endDate": "2017-10-14T19:00:00+03:00",
   "webapp": {
     "shortName": "DevFest",
     "themeColor": "#673AB7",
@@ -15,7 +15,7 @@
   "dateFormat": {
     "locale": "en-US"
   },
-  "hashtag": "DevFest19",
+  "hashtag": "DevFest17",
   "disabledSchedule": false,
   "navigation": [
     {
@@ -46,7 +46,7 @@
   ],
   "heroSettings": {
     "home": {
-      "description": "The Magical Developers Conference!",
+      "description": "Be a hero. Be a GDG!",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
@@ -113,20 +113,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "Disney's Contemporary Resort",
-    "city": "Orlando",
-    "short": "Orlando, Florida",
-    "address": "4600 North World Dr. Lake Buena Vista, Orlando, FL 32830",
+    "name": "Planeta kino",
+    "city": "Lviv",
+    "short": "Lviv, Ukraine",
+    "address": "36 Shchyretska St, Lviv, Ukraine",
     "pointer": {
-      "latitude": 28.415035,
-      "longitude": -81.574409,
-      "zoom": 9
+      "latitude": 49.809841,
+      "longitude": 23.972805,
+      "zoom": 5
     },
     "mapCenter": {
-      "latitude": 28,
-      "longitude": -81
+      "latitude": 48,
+      "longitude": 8
     },
-    "description": "This deluxe Disney-owned resort is designed as a distinctive building within Walt Disney World® that has the resort monorail running right through its center, with the Magic Kingdom a 10-minute walk away."
+    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
   },
   "mediaQueries": {
     "xs": {
@@ -148,30 +148,26 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Central-Florida/events/253755546/"
+        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfestflorida/"
+        "url": "https://www.facebook.com/devfest.ukraine/"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfestfl/"
+        "url": "https://twitter.com/devfest_ukraine/"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/devfestflorida"
+        "url": "https://www.instagram.com/devfestukraine"
       },
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PL97olfUJku705B1dvVCrvzMWWECCoXSYw"
+        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
       }
     ],
     "share": [
-      {
-        "name": "gplus",
-        "url": "https://plus.google.com/share?url="
-      },
       {
         "name": "facebook",
         "url": "https://www.facebook.com/sharer.php?u="
@@ -182,11 +178,7 @@
       }
     ]
   },
-  "mailto": "organizers@devfestflorida.org",
-  "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
-  },
+  "mailto": "devfest@gdg.org.ua",
   "signInProviders": {
     "providersData": [
       {
